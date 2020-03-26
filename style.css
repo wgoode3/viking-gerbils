@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+div {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+h1 {
+    background-color: rebeccapurple;
+    color: #fff;
+    display: inline-block;
+    width: 260px;
+    padding: 20px;
+    border: 5px dashed salmon;
+    margin: 10px;
+}
+
+.green {
+    background-color: mediumseagreen;
+}
+
+#red {
+    background-color: tomato;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+p {
+    width: 277px;
+    height: 300px;
+    background-color: mediumslateblue;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    vertical-align: top;
+    overflow: auto;
+}
+
+.no-margin-right {
+    margin-right: 0;
+}
+
+form {
+    margin: 50px 0px;
+}
+
+button {
+    width: 100%;
+    height: 100px;
+    font-size: 36px;
+    border-radius: 50px;
+    background-image: linear-gradient(cyan 50%, royalblue 50%);
+}
+
+label, input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100%;
+}
